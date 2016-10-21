@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477064770 source:c:\users\kille_000\desktop\algo\carré\main.c
+	<stdio.h>
+	<stdlib.h>
+
